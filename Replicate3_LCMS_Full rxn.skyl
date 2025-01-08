@@ -1,0 +1,2255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<audit_log_root format_version="22.22">
+  <document_hash>+q3AqhMIexE9K9q09BrkuTmQuVA=</document_hash>
+  <root_hash>Blu9N2VRBOHirNK9LjTeqPvNsjM=</root_hash>
+  <audit_log>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2025-01-07T19:03:14+01:00" user="DESKTOP-08QHN3J\anasi">
+      <undo_redo>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </summary>
+      <all_info>
+        <type>renamed_replicate</type>
+        <name>16</name>
+        <name>Replicate 3. Full rxn</name>
+        <en_expanded>Renamed replicate 16 to Replicate 3. Full rxn</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>01</name>
+        <en_expanded>Removed replicate 01</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>02</name>
+        <en_expanded>Removed replicate 02</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>02_2</name>
+        <en_expanded>Removed replicate 02_2</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>02_3</name>
+        <en_expanded>Removed replicate 02_3</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>02_4</name>
+        <en_expanded>Removed replicate 02_4</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>03</name>
+        <en_expanded>Removed replicate 03</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>04</name>
+        <en_expanded>Removed replicate 04</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>05</name>
+        <en_expanded>Removed replicate 05</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>06</name>
+        <en_expanded>Removed replicate 06</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>07</name>
+        <en_expanded>Removed replicate 07</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>08</name>
+        <en_expanded>Removed replicate 08</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>09</name>
+        <en_expanded>Removed replicate 09</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>10</name>
+        <en_expanded>Removed replicate 10</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>11</name>
+        <en_expanded>Removed replicate 11</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>12</name>
+        <en_expanded>Removed replicate 12</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>13</name>
+        <en_expanded>Removed replicate 13</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>14</name>
+        <en_expanded>Removed replicate 14</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>15</name>
+        <en_expanded>Removed replicate 15</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>17</name>
+        <en_expanded>Removed replicate 17</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>18</name>
+        <en_expanded>Removed replicate 18</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>19</name>
+        <en_expanded>Removed replicate 19</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_replicate</type>
+        <name>20</name>
+        <en_expanded>Removed replicate 20</en_expanded>
+      </all_info>
+      <hash>wjN1Q4XTjmeblrpPBX01S5RWdXs=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2023-10-16T15:48:56+02:00" user="DESKTOP-08QHN3J\anasi" mode="m">
+      <extra_info>{0:ImportResultsSettings_FileNames} = 
+[
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_001.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_2.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_3.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_4.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_003.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_004.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_005.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_006.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_007.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_008.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_009.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_010.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_011.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_012.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_013.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_014.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_015.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_016.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_017.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_018.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_019.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_020.d}"
+],
+{0:ImportResultsSettings_SingleInjectionReplicates} = {3:True},
+{0:ImportResultsSettings_FileImportOption} = "{6:ImportResultsSimultaneousFileOptions_many}",
+{0:ImportResultsSettings_Prefix} = "phospholipids_20220616_0"</extra_info>
+      <undo_redo>
+        <type>imported_results</type>
+        <name>23</name>
+        <en_expanded>Imported results from 23 files</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>imported_results</type>
+        <name>23</name>
+        <en_expanded>Imported results from 23 files</en_expanded>
+      </summary>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_001.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_001.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_3.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_3.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_4.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_4.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_003.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_003.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_004.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_004.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_005.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_005.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_006.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_006.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_007.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_007.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_008.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_008.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_009.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_009.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_010.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_010.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_011.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_011.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_012.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_012.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_013.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_013.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_014.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_014.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_015.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_015.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_016.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_016.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_017.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_017.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_018.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_018.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_019.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_019.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_020.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_020.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_SingleInjectionReplicates}</name>
+        <name>{3:True}</name>
+        <en_expanded>Import results settings &gt; Add single-injection replicates in files is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileImportOption}</name>
+        <name>"{6:ImportResultsSimultaneousFileOptions_many}"</name>
+        <en_expanded>Import results settings &gt; Files to import simultaneously is "Many"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_Prefix}</name>
+        <name>"phospholipids_20220616_0"</name>
+        <en_expanded>Import results settings &gt; Removed prefix is "phospholipids_20220616_0"</en_expanded>
+      </all_info>
+      <en_extra_info>File names = 
+[
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_001.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_2.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_3.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_002_4.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_003.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_004.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_005.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_006.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_007.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_008.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_009.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_010.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_011.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_012.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_013.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_014.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_015.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_016.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_017.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_018.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_019.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_020.d"
+],
+Add single-injection replicates in files = True,
+Files to import simultaneously = "Many",
+Removed prefix = "phospholipids_20220616_0"</en_extra_info>
+      <hash>P9lj68tfQW4i6up1Jb7U6+FWfJ0=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2023-10-16T15:41:53+02:00" user="DESKTOP-08QHN3J\anasi">
+      <undo_redo>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </summary>
+      <all_info>
+        <type>removed_all_replicates</type>
+        <en_expanded>Removed all replicates</en_expanded>
+      </all_info>
+      <hash>vgYSeeOyZTFtF4EPoDPQo2PM1Zg=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2023-10-16T14:08:10+02:00" user="DESKTOP-08QHN3J\anasi" mode="m">
+      <extra_info>{0:ImportResultsSettings_FileNames} = 
+[
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_001.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_002.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_003.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_004.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_005.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_006.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_007.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_008.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_009.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_010.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_011.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_012.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_013.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_014.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_015.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_016.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_017.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_018.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_019.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_020.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_021.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_022.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_023.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_024.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_025.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_026.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_027.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_028.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220616_002_3.d}"
+],
+{0:ImportResultsSettings_SingleInjectionReplicates} = {3:True},
+{0:ImportResultsSettings_FileImportOption} = "{6:ImportResultsSimultaneousFileOptions_many}",
+{0:ImportResultsSettings_Prefix} = "phospholipids_2022061"</extra_info>
+      <undo_redo>
+        <type>imported_results</type>
+        <name>29</name>
+        <en_expanded>Imported results from 29 files</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>imported_results</type>
+        <name>29</name>
+        <en_expanded>Imported results from 29 files</en_expanded>
+      </summary>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_001.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_001.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_002.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_002.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_003.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_003.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_004.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_004.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_005.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_005.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_006.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_006.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_007.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_007.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_008.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_008.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_009.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_009.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_010.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_010.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_011.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_011.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_012.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_012.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_013.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_013.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_014.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_014.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_015.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_015.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_016.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_016.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_017.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_017.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_018.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_018.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_019.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_019.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_020.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_020.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_021.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_021.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_022.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_022.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_023.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_023.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_024.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_024.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_025.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_025.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_026.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_026.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_027.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_027.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_028.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_028.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220616_002_3.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220616_002_3.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_SingleInjectionReplicates}</name>
+        <name>{3:True}</name>
+        <en_expanded>Import results settings &gt; Add single-injection replicates in files is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileImportOption}</name>
+        <name>"{6:ImportResultsSimultaneousFileOptions_many}"</name>
+        <en_expanded>Import results settings &gt; Files to import simultaneously is "Many"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_Prefix}</name>
+        <name>"phospholipids_2022061"</name>
+        <en_expanded>Import results settings &gt; Removed prefix is "phospholipids_2022061"</en_expanded>
+      </all_info>
+      <en_extra_info>File names = 
+[
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_001.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_002.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_003.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_004.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_005.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_006.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_007.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_008.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_009.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_010.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_011.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_012.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_013.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_014.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_015.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_016.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_017.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_018.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_019.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_020.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_021.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_022.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_023.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_024.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_025.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_026.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_027.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220610_028.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220610\phospholipids_20220616_002_3.d"
+],
+Add single-injection replicates in files = True,
+Files to import simultaneously = "Many",
+Removed prefix = "phospholipids_2022061"</en_extra_info>
+      <hash>oTCDfGdcSKhMgqaTmVeMw52oufQ=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2023-10-16T13:58:14+02:00" user="DESKTOP-08QHN3J\anasi">
+      <undo_redo>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </summary>
+      <all_info>
+        <type>removed_all_replicates</type>
+        <en_expanded>Removed all replicates</en_expanded>
+      </all_info>
+      <hash>L9qpkiJnzFs3e8h1/ttRiuSoYME=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2023-10-16T13:56:18+02:00" user="DESKTOP-08QHN3J\anasi" mode="m">
+      <extra_info>{0:ImportResultsSettings_FileNames} = 
+[
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_001.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_002.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_003.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_004.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_005.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_006.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_007.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_008.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_009.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_010.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_011.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_012.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_013.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_014.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_015.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_016.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_017.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_018.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_019.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_020.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_021.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_022.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_023.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_024.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_025.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_026.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_027.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_028.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_029.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_030.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_031.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_032.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_033.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_034.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_035.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_036.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_037.d}",
+    "{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_038.d}"
+],
+{0:ImportResultsSettings_SingleInjectionReplicates} = {3:True},
+{0:ImportResultsSettings_FileImportOption} = "{6:ImportResultsSimultaneousFileOptions_many}",
+{0:ImportResultsSettings_Prefix} = "phospholipids_20220602_0"</extra_info>
+      <undo_redo>
+        <type>imported_results</type>
+        <name>38</name>
+        <en_expanded>Imported results from 38 files</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>imported_results</type>
+        <name>38</name>
+        <en_expanded>Imported results from 38 files</en_expanded>
+      </summary>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_001.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_001.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_002.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_002.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_003.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_003.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_004.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_004.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_005.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_005.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_006.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_006.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_007.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_007.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_008.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_008.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_009.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_009.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_010.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_010.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_011.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_011.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_012.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_012.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_013.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_013.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_014.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_014.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_015.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_015.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_016.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_016.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_017.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_017.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_018.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_018.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_019.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_019.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_020.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_020.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_021.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_021.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_022.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_022.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_023.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_023.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_024.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_024.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_025.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_025.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_026.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_026.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_027.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_027.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_028.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_028.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_029.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_029.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_030.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_030.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_031.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_031.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_032.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_032.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_033.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_033.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_034.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_034.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_035.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_035.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_036.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_036.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_037.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_037.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_038.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_038.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_SingleInjectionReplicates}</name>
+        <name>{3:True}</name>
+        <en_expanded>Import results settings &gt; Add single-injection replicates in files is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileImportOption}</name>
+        <name>"{6:ImportResultsSimultaneousFileOptions_many}"</name>
+        <en_expanded>Import results settings &gt; Files to import simultaneously is "Many"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_Prefix}</name>
+        <name>"phospholipids_20220602_0"</name>
+        <en_expanded>Import results settings &gt; Removed prefix is "phospholipids_20220602_0"</en_expanded>
+      </all_info>
+      <en_extra_info>File names = 
+[
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_001.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_002.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_003.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_004.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_005.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_006.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_007.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_008.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_009.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_010.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_011.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_012.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_013.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_014.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_015.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_016.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_017.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_018.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_019.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_020.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_021.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_022.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_023.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_024.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_025.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_026.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_027.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_028.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_029.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_030.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_031.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_032.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_033.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_034.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_035.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_036.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_037.d",
+    "C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\20220602\phospholipids_20220602_038.d"
+],
+Add single-injection replicates in files = True,
+Files to import simultaneously = "Many",
+Removed prefix = "phospholipids_20220602_0"</en_extra_info>
+      <hash>G4nZ2UQKv6vB+xJBdADmm1NthXI=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2023-10-16T13:55:54+02:00" user="DESKTOP-08QHN3J\anasi">
+      <undo_redo>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </summary>
+      <all_info>
+        <type>removed_all_replicates</type>
+        <en_expanded>Removed all replicates</en_expanded>
+      </all_info>
+      <hash>MpwG2/hxULJHpNVX4gX4/agcUdo=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.1.391-1e3a4e917 (64-Bit)" time_stamp="2023-10-16T10:11:54+02:00" user="DESKTOP-08QHN3J\anasi" mode="m">
+      <extra_info>{0:ImportResultsSettings_FileNames} = 
+[
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_001.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_002.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_003.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_004.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_005.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_006.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_007.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_008.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_009.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_010.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_011.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_012.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_013.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_014.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_015.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_016.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_017.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_018.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_019.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_020.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_021.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_022.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_023.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_024.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_025.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_026.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_027.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_028.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_029.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_030.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_031.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_032.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_033.d}",
+    "{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_034.d}"
+],
+{0:ImportResultsSettings_SingleInjectionReplicates} = {3:True},
+{0:ImportResultsSettings_FileImportOption} = "{6:ImportResultsSimultaneousFileOptions_many}",
+{0:ImportResultsSettings_Prefix} = "phospholipids_20220623_0"</extra_info>
+      <undo_redo>
+        <type>imported_results</type>
+        <name>34</name>
+        <en_expanded>Imported results from 34 files</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>imported_results</type>
+        <name>34</name>
+        <en_expanded>Imported results from 34 files</en_expanded>
+      </summary>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_001.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_001.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_002.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_002.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_003.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_003.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_004.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_004.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_005.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_005.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_006.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_006.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_007.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_007.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_008.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_008.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_009.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_009.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_010.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_010.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_011.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_011.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_012.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_012.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_013.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_013.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_014.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_014.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_015.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_015.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_016.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_016.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_017.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_017.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_018.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_018.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_019.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_019.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_020.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_020.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_021.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_021.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_022.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_022.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_023.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_023.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_024.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_024.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_025.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_025.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_026.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_026.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_027.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_027.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_028.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_028.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_029.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_029.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_030.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_030.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_031.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_031.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_032.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_032.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_033.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_033.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_034.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_034.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_SingleInjectionReplicates}</name>
+        <name>{3:True}</name>
+        <en_expanded>Import results settings &gt; Add single-injection replicates in files is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileImportOption}</name>
+        <name>"{6:ImportResultsSimultaneousFileOptions_many}"</name>
+        <en_expanded>Import results settings &gt; Files to import simultaneously is "Many"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_Prefix}</name>
+        <name>"phospholipids_20220623_0"</name>
+        <en_expanded>Import results settings &gt; Removed prefix is "phospholipids_20220623_0"</en_expanded>
+      </all_info>
+      <en_extra_info>File names = 
+[
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_001.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_002.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_003.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_004.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_005.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_006.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_007.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_008.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_009.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_010.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_011.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_012.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_013.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_014.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_015.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_016.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_017.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_018.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_019.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_020.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_021.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_022.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_023.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_024.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_025.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_026.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_027.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_028.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_029.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_030.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_031.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_032.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_033.d",
+    "W:\staff-bulk\tnw\BN\Shared\Instruments\ChD lab\Federico (instruments)\MEP\MasSpec\20220623\phospholipids_20220623_034.d"
+],
+Add single-injection replicates in files = True,
+Files to import simultaneously = "Many",
+Removed prefix = "phospholipids_20220623_0"</en_extra_info>
+      <hash>jCjcic/U0DgO1SMUAPtfByYYImg=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-07T09:11:42+01:00" user="DASTUD\TUD278950" mode="m">
+      <undo_redo>
+        <type>changed_peak_start</type>
+        <name>regular oleoyl{2:PropertySeparator}C18:1-LPA{2:PropertySeparator}435.3000-{2:PropertySeparator}152.9000-</name>
+        <name>1</name>
+        <name>6.81</name>
+        <name>6.55</name>
+        <en_expanded>Changed start time of peak regular oleoyl &gt; C18:1-LPA &gt; 435.3000- &gt; 152.9000- in "1" to from 6.81 to 6.55</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>changed_peak_start</type>
+        <name>regular oleoyl{2:PropertySeparator}C18:1-LPA{2:PropertySeparator}435.3000-{2:PropertySeparator}152.9000-</name>
+        <name>1</name>
+        <name>6.81</name>
+        <name>6.55</name>
+        <en_expanded>Changed start time of peak regular oleoyl &gt; C18:1-LPA &gt; 435.3000- &gt; 152.9000- in "1" to from 6.81 to 6.55</en_expanded>
+      </summary>
+      <hash>mUWyC5/mi67x+fcrW/rHIywcaw8=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-07T09:11:12+01:00" user="DASTUD\TUD278950" mode="m">
+      <undo_redo>
+        <type>changed_peak_end</type>
+        <name>regular oleoyl{2:PropertySeparator}CDP_DOG{2:PropertySeparator}1004.5000-{2:PropertySeparator}761.5000-</name>
+        <name>1</name>
+        <name>5.84</name>
+        <name>5.98</name>
+        <en_expanded>Changed end time of peak regular oleoyl &gt; CDP_DOG &gt; 1004.5000- &gt; 761.5000- in "1" from 5.84 to 5.98</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>changed_peak_end</type>
+        <name>regular oleoyl{2:PropertySeparator}CDP_DOG{2:PropertySeparator}1004.5000-{2:PropertySeparator}761.5000-</name>
+        <name>1</name>
+        <name>5.84</name>
+        <name>5.98</name>
+        <en_expanded>Changed end time of peak regular oleoyl &gt; CDP_DOG &gt; 1004.5000- &gt; 761.5000- in "1" from 5.84 to 5.98</en_expanded>
+      </summary>
+      <hash>+b9cTzjuEBcKzYsdRcSJ+RFwsNw=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-07T09:10:27+01:00" user="DASTUD\TUD278950" mode="m">
+      <undo_redo>
+        <type>changed_peak_start</type>
+        <name>regular palmitoyl{2:PropertySeparator}DPPS{2:PropertySeparator}743.5000-{2:PropertySeparator}255.1000-</name>
+        <name>1</name>
+        <name>1.60</name>
+        <name>1.63</name>
+        <en_expanded>Changed start time of peak regular palmitoyl &gt; DPPS &gt; 743.5000- &gt; 255.1000- in "1" to from 1.60 to 1.63</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>changed_peak_start</type>
+        <name>regular palmitoyl{2:PropertySeparator}DPPS{2:PropertySeparator}743.5000-{2:PropertySeparator}255.1000-</name>
+        <name>1</name>
+        <name>1.60</name>
+        <name>1.63</name>
+        <en_expanded>Changed start time of peak regular palmitoyl &gt; DPPS &gt; 743.5000- &gt; 255.1000- in "1" to from 1.60 to 1.63</en_expanded>
+      </summary>
+      <hash>NnES4AI7rroGenzZRIxfu5cXWWQ=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-07T08:58:05+01:00" user="DASTUD\TUD278950" mode="m">
+      <extra_info>{0:ImportResultsSettings_FileNames} = 
+[
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1b.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2b.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3b.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8_2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(1).d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(2).d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(3).d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(4).d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(5).d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(6).d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(7).d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ3.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ4.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ5.d}"
+],
+{0:ImportResultsSettings_SingleInjectionReplicates} = {3:True},
+{0:ImportResultsSettings_FileImportOption} = "{6:ImportResultsSimultaneousFileOptions_many}",
+{0:ImportResultsSettings_Prefix} = "phospholipids_20230306_"</extra_info>
+      <undo_redo>
+        <type>imported_results</type>
+        <name>34</name>
+        <en_expanded>Imported results from 34 files</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>imported_results</type>
+        <name>34</name>
+        <en_expanded>Imported results from 34 files</en_expanded>
+      </summary>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1b.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1b.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2b.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2b.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3b.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3b.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8_2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8_2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(1).d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(1).d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(2).d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(2).d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(3).d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(3).d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(4).d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(4).d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(5).d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(5).d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(6).d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(6).d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(7).d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(7).d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ3.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ3.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ4.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ4.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ5.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ5.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_SingleInjectionReplicates}</name>
+        <name>{3:True}</name>
+        <en_expanded>Import results settings &gt; Add single-injection replicates in files is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileImportOption}</name>
+        <name>"{6:ImportResultsSimultaneousFileOptions_many}"</name>
+        <en_expanded>Import results settings &gt; Files to import simultaneously is "Many"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_Prefix}</name>
+        <name>"phospholipids_20230306_"</name>
+        <en_expanded>Import results settings &gt; Removed prefix is "phospholipids_20230306_"</en_expanded>
+      </all_info>
+      <en_extra_info>File names = 
+[
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1b.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2b.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3b.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C7_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C8_2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(1).d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(2).d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(3).d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(4).d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(5).d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(6).d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2(7).d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ3.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ4.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ5.d"
+],
+Add single-injection replicates in files = True,
+Files to import simultaneously = "Many",
+Removed prefix = "phospholipids_20230306_"</en_extra_info>
+      <hash>dAA07YD3XTYHlb21aMKL7V/Q7sA=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-07T08:57:30+01:00" user="DASTUD\TUD278950">
+      <undo_redo>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>managed_results</type>
+        <en_expanded>Managed results</en_expanded>
+      </summary>
+      <all_info>
+        <type>removed_all_replicates</type>
+        <en_expanded>Removed all replicates</en_expanded>
+      </all_info>
+      <hash>r/Si5BvJXVE1OdAaOccBnwvlJBI=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-06T14:30:38+01:00" user="DASTUD\TUD278950" mode="m">
+      <undo_redo>
+        <type>changed_to</type>
+        <name>{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Quantification}{2:PropertySeparator}{0:QuantificationSettings_MsLevel}</name>
+        <name>{3:2}</name>
+        <en_expanded>Molecule Settings -- Quantification &gt; MS level changed to "2"</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>changed_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Quantification}{2:PropertySeparator}{0:QuantificationSettings_MsLevel}</name>
+        <name>{3:2}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Quantification &gt; MS level changed to "2"</en_expanded>
+      </summary>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Quantification}{2:PropertySeparator}{0:QuantificationSettings_MsLevel}</name>
+        <name>{2:Missing}</name>
+        <name>{3:2}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Quantification &gt; MS level changed from Missing to "2"</en_expanded>
+      </all_info>
+      <hash>KQ5ZbnxTRn4SD/LaNdsPuk2vGqE=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-06T14:26:39+01:00" user="DASTUD\TUD278950" mode="m">
+      <extra_info>{0:ImportResultsSettings_FileNames} = 
+[
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d}",
+    "{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d}"
+],
+{0:ImportResultsSettings_SingleInjectionReplicates} = {3:True},
+{0:ImportResultsSettings_FileImportOption} = "{6:ImportResultsSimultaneousFileOptions_many}"</extra_info>
+      <undo_redo>
+        <type>imported_results</type>
+        <name>7</name>
+        <en_expanded>Imported results from 7 files</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>imported_results</type>
+        <name>7</name>
+        <en_expanded>Imported results from 7 files</en_expanded>
+      </summary>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileNames}</name>
+        <name>"{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d}"</name>
+        <en_expanded>Import results settings &gt; File names : contains "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_SingleInjectionReplicates}</name>
+        <name>{3:True}</name>
+        <en_expanded>Import results settings &gt; Add single-injection replicates in files is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:ImportResultsSettings}{2:PropertySeparator}{0:ImportResultsSettings_FileImportOption}</name>
+        <name>"{6:ImportResultsSimultaneousFileOptions_many}"</name>
+        <en_expanded>Import results settings &gt; Files to import simultaneously is "Many"</en_expanded>
+      </all_info>
+      <en_extra_info>File names = 
+[
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C1.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C2.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C3.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C4.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C5.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_C6.d",
+    "N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_MQ1.d"
+],
+Add single-injection replicates in files = True,
+Files to import simultaneously = "Many"</en_extra_info>
+      <hash>/7UjfiIbLMXyuxkuBB0J5ozTrVI=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-06T14:22:43+01:00" user="DASTUD\TUD278950" mode="m">
+      <extra_info>10 transitions added
+Columns identified as 'Molecule List Name','Molecule Name','Ignore Column','Precursor m/z','Precursor Charge','Ignore Column','Product m/z','Product Charge','Ignore Column','Ignore Column','Ignore Column','Explicit Collision Energy','Ignore Column','Ignore Column'
+Compound Group,Compound Name,ISTD?,Precursor Ion,Charge precusor,MS1 Res,Product Ion,Charge product,MS2 Res,Dwell,Fragmentor,Collision Energy,Cell Accelerator Voltage,Polarity
+regular oleoyl,CDP_DOG,FALSE,1004.5,M-,Unit,761.5,M-,Unit,50,135,55,7,Negative
+regular palmitoyl,CDP-DPG,FALSE,952.5,M-,Unit,709.4,M-,Unit,50,135,55,7,Negative
+regular oleoyl,DOPS,FALSE,786.5,M-,Unit,281.2,M-,Unit,50,130,40,7,Negative
+regular oleoyl,DOPG,FALSE,773.5,M-,Unit,281.2,M-,Unit,50,190,37,7,Negative
+regular palmitoyl,DPPS,FALSE,743.5,M-,Unit,255.1,M-,Unit,50,180,41,7,Negative
+regular oleoyl,DOPE,FALSE,742.5,M-,Unit,281.2,M-,Unit,50,140,25,7,Negative
+regular oleoyl,CL,FALSE,727.5,M-,Unit,281.2,M-,Unit,50,140,29,7,Negative
+regular oleoyl,DOPA,FALSE,699.5,M-,Unit,281.2,M-,Unit,50,190,37,7,Negative
+regular oleoyl,C18:1-LPA,FALSE,435.3,M-,Unit,152.9,M-,Unit,50,160,17,7,Negative
+regular palmitoyl,C16:0-LPA,FALSE,409.2,M-,Unit,152.9,M-,Unit,50,150,13,7,Negative
+regular palmitoyl,C16:0-LPA,FALSE,409.2,M-,Unit,152.9,M-,Unit,50,150,13,7,Negative
+</extra_info>
+      <undo_redo>
+        <type>imported_transition_list_from_file</type>
+        <name>{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\PL-transitions 2.csv}</name>
+        <en_expanded>Imported a transition list from "PL-transitions 2.csv"</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>imported_transition_list_from_file</type>
+        <name>{4:N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\PL-transitions 2.csv}</name>
+        <en_expanded>Imported a transition list from "PL-transitions 2.csv"</en_expanded>
+      </summary>
+      <hash>ewxZc7aazJtIPSDeC32qZ50hMk4=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-06T14:18:21+01:00" user="DASTUD\TUD278950" mode="m">
+      <undo_redo>
+        <type>changed</type>
+        <name>{0:SrmSettings_TransitionSettings}</name>
+        <en_expanded>Transition Settings changed</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>changed</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}</name>
+        <en_expanded>Settings &gt; Transition Settings changed</en_expanded>
+      </summary>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Prediction}{2:PropertySeparator}{0:TransitionPrediction_NonNullCollisionEnergy}</name>
+        <name>"{2:None}"</name>
+        <name>"Agilent QQQ"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Prediction &gt; Collision energy changed from "None" to "Agilent QQQ"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Prediction}{2:PropertySeparator}{0:TransitionPrediction_NonNullCollisionEnergy}{2:PropertySeparator}{0:CollisionEnergyRegression_Conversions}</name>
+        <name>{ {0:ChargeRegressionLine_Charge} = {3:2}, {0:ChargeRegressionLine_Slope} = {3:0.031}, {0:ChargeRegressionLine_Intercept} = {3:1} }</name>
+        <en_expanded>Settings &gt; Transition Settings -- Prediction &gt; Collision energy &gt; Regression parameters : contains { Charge = "2", Slope = "0.031", Intercept = "1" }</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Prediction}{2:PropertySeparator}{0:TransitionPrediction_NonNullCollisionEnergy}{2:PropertySeparator}{0:CollisionEnergyRegression_Conversions}</name>
+        <name>{ {0:ChargeRegressionLine_Charge} = {3:3}, {0:ChargeRegressionLine_Slope} = {3:0.036}, {0:ChargeRegressionLine_Intercept} = {3:-4.8} }</name>
+        <en_expanded>Settings &gt; Transition Settings -- Prediction &gt; Collision energy &gt; Regression parameters : contains { Charge = "3", Slope = "0.036", Intercept = "-4.8" }</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Prediction}{2:PropertySeparator}{0:TransitionPrediction_NonNullCollisionEnergy}{2:PropertySeparator}{0:OptimizableRegression_StepSize}</name>
+        <name>{3:2}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Prediction &gt; Collision energy &gt; Step size is "2"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Prediction}{2:PropertySeparator}{0:TransitionPrediction_NonNullCollisionEnergy}{2:PropertySeparator}{0:OptimizableRegression_StepCount}</name>
+        <name>{3:3}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Prediction &gt; Collision energy &gt; Step count is "3"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Prediction}{2:PropertySeparator}{0:TransitionPrediction_NonNullOptimizedLibrary}</name>
+        <name>"{2:None}"</name>
+        <name>"None"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Prediction &gt; Optimization library changed from "None" to "None"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_SmallMoleculePrecursorAdductsString}</name>
+        <name>"[M+H]"</name>
+        <name>"[M-]"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Precursor adducts changed from "[M+H]" to "[M-]"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_SmallMoleculeFragmentAdductsString}</name>
+        <name>"[M+]"</name>
+        <name>"[M-]"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Fragment adducts changed from "[M+]" to "[M-]"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_SmallMoleculeIonTypesString}</name>
+        <name>"f"</name>
+        <name>"f, p"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Ion types changed from "f" to "f, p"</en_expanded>
+      </all_info>
+      <hash>3pxXeU1hVkZe910CxIkhI6zX/C8=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-06T14:10:39+01:00" user="DASTUD\TUD278950" mode="m">
+      <undo_redo>
+        <type>changed</type>
+        <name>{0:Settings}</name>
+        <en_expanded>Settings changed</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>changed</type>
+        <name>{0:Settings}</name>
+        <en_expanded>Settings changed</en_expanded>
+      </summary>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_DigestSettings}{2:PropertySeparator}{0:DigestSettings_MaxMissedCleavages}</name>
+        <name>{3:1}</name>
+        <name>{3:0}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Digestion &gt; Max missed cleavages changed from "1" to "0"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Prediction}{2:PropertySeparator}{0:PeptidePrediction_MeasuredRTWindow}</name>
+        <name>{3:5}</name>
+        <name>{3:2}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Prediction &gt; Time window changed from "5" to "2"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Filter}{2:PropertySeparator}{0:PeptideFilter_ExcludeNTermAAs}</name>
+        <name>{3:0}</name>
+        <name>{3:25}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Filter &gt; Exclude N-terminal AAs changed from "0" to "25"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_from</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_StaticModifications}</name>
+        <name>"Phospho (S,T)"</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Structural modifications : "Phospho (S,T)" was removed</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_all</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_HeavyModifications}{2:PropertySeparator}"heavy"</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Isotope modifications &gt; "heavy": removed all</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PeptidePrecursorChargesString}</name>
+        <name>"2, 3"</name>
+        <name>"2"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Precursor charges changed from "2, 3" to "2"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PeptideProductChargesString}</name>
+        <name>"1, 2"</name>
+        <name>"1"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Ion adducts changed from "1, 2" to "1"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_SmallMoleculePrecursorAdductsString}</name>
+        <name>"[M-H]"</name>
+        <name>"[M+H]"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Precursor adducts changed from "[M-H]" to "[M+H]"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_SmallMoleculeFragmentAdductsString}</name>
+        <name>"[M-]"</name>
+        <name>"[M+]"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Fragment adducts changed from "[M-]" to "[M+]"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PeptideIonTypesString}</name>
+        <name>"y, b"</name>
+        <name>"y"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Ion types changed from "y, b" to "y"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_StartFragmentFinderLabel}</name>
+        <name>"{6:OrdinalFragmentFinder_ion_1}"</name>
+        <name>"{6:MzFragmentFinder_m_z__gt__precursor}"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Product ion selection start changed from "ion 1" to "m/z &gt; precursor"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_EndFragmentFinderLabel}</name>
+        <name>"{6:LastFragmentFinder_last_ion}"</name>
+        <name>"{6:DeltaFragmentFinder_3_ions}"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Product ion selection end changed from "last ion" to "3 ions"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>added_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}</name>
+        <name>"N-terminal to Proline"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions : "N-terminal to Proline" was added</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}{2:PropertySeparator}"N-terminal to Proline"{2:PropertySeparator}{0:MeasuredIon_Fragment}</name>
+        <name>"P"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions &gt; "N-terminal to Proline" &gt; Fragment amino acids is "P"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}{2:PropertySeparator}"N-terminal to Proline"{2:PropertySeparator}{0:MeasuredIon_Restrict}</name>
+        <name>{2:Missing}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions &gt; "N-terminal to Proline" &gt; Unless next amino acids is Missing</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}{2:PropertySeparator}"N-terminal to Proline"{2:PropertySeparator}{0:MeasuredIon_Terminus}</name>
+        <name>"{6:SequenceTerminus_N}"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions &gt; "N-terminal to Proline" &gt; Type is "N"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}{2:PropertySeparator}"N-terminal to Proline"{2:PropertySeparator}{0:MeasuredIon_MinFragmentLength}</name>
+        <name>{3:3}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions &gt; "N-terminal to Proline" &gt; Min amino acids is "3"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}{2:PropertySeparator}"N-terminal to Proline"{2:PropertySeparator}{0:MeasuredIon_IsFragment}</name>
+        <name>{3:True}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions &gt; "N-terminal to Proline" &gt; Intense fragment is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}{2:PropertySeparator}"N-terminal to Proline"{2:PropertySeparator}{0:MeasuredIon_SettingsCustomIon}</name>
+        <name>{2:Missing}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions &gt; "N-terminal to Proline" &gt; Custom product ion is Missing</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PrecursorMzWindow}</name>
+        <name>{3:5}</name>
+        <name>{3:0}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Precursor m/z exclusion window changed from "5" to "0"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Libraries}{2:PropertySeparator}{0:TransitionLibraries_MinIonCount}</name>
+        <name>{3:1}</name>
+        <name>{3:0}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Library &gt; Minimum product ions changed from "1" to "0"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Libraries}{2:PropertySeparator}{0:TransitionLibraries_IonCount}</name>
+        <name>{3:5}</name>
+        <name>{3:3}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Library &gt; Product ions changed from "5" to "3"</en_expanded>
+      </all_info>
+      <hash>rECjgQBH9DpfdXcVWIegCg0llA0=</hash>
+    </audit_log_entry>
+    <audit_log_entry skyline_version="22.2.0.351-28f9b9301 (64-Bit)" time_stamp="2023-03-06T14:10:03+01:00" user="DASTUD\TUD278950" mode="m">
+      <undo_redo>
+        <type>start_log_existing_doc</type>
+        <en_expanded>Start of audit log for already existing document</en_expanded>
+      </undo_redo>
+      <summary>
+        <type>start_log_existing_doc</type>
+        <en_expanded>Start of audit log for already existing document</en_expanded>
+      </summary>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_DigestSettings}{2:PropertySeparator}{0:DigestSettings_MaxMissedCleavages}</name>
+        <name>{3:0}</name>
+        <name>{3:1}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Digestion &gt; Max missed cleavages changed from "0" to "1"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Prediction}{2:PropertySeparator}{0:PeptidePrediction_MeasuredRTWindow}</name>
+        <name>{3:2}</name>
+        <name>{3:5}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Prediction &gt; Time window changed from "2" to "5"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Filter}{2:PropertySeparator}{0:PeptideFilter_ExcludeNTermAAs}</name>
+        <name>{3:25}</name>
+        <name>{3:0}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Filter &gt; Exclude N-terminal AAs changed from "25" to "0"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>added_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_StaticModifications}</name>
+        <name>"Phospho (S,T)"</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Structural modifications : "Phospho (S,T)" was added</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_StaticModifications}{2:PropertySeparator}"Phospho (S,T)"{2:PropertySeparator}{0:StaticMod_AAs}</name>
+        <name>"S, T"</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Structural modifications &gt; "Phospho (S,T)" &gt; Amino acid is "S, T"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_StaticModifications}{2:PropertySeparator}"Phospho (S,T)"{2:PropertySeparator}{0:StaticMod_Formula}</name>
+        <name>"HPO3"</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Structural modifications &gt; "Phospho (S,T)" &gt; Chemical formula is "HPO3"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_StaticModifications}{2:PropertySeparator}"Phospho (S,T)"{2:PropertySeparator}{0:StaticMod_MonoisotopicMass}</name>
+        <name>{3:79.966331}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Structural modifications &gt; "Phospho (S,T)" &gt; Monoisotopic mass is "79.966331"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_StaticModifications}{2:PropertySeparator}"Phospho (S,T)"{2:PropertySeparator}{0:StaticMod_AverageMass}</name>
+        <name>{3:79.979901}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Structural modifications &gt; "Phospho (S,T)" &gt; Average mass is "79.979901"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>contains</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_StaticModifications}{2:PropertySeparator}"Phospho (S,T)"{2:PropertySeparator}{0:StaticMod_Losses}</name>
+        <name>{ {0:FragmentLoss_Formula} = "H3PO4", {0:FragmentLoss_MonoisotopicMass} = {3:97.976896}, {0:FragmentLoss_AverageMass} = {3:97.995181}, {0:FragmentLoss_Inclusion} = "{6:LossInclusion_Library}" }</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Structural modifications &gt; "Phospho (S,T)" &gt; Neutral losses : contains { Neutral loss chemical formula = "H3PO4", Monoisotopic loss = "97.976896", Average loss = "97.995181", Include loss by default = "Matching Library" }</en_expanded>
+      </all_info>
+      <all_info>
+        <type>added_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_HeavyModifications}{2:PropertySeparator}"heavy"</name>
+        <name>"Label:15N"</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Isotope modifications &gt; "heavy" : "Label:15N" was added</en_expanded>
+      </all_info>
+      <all_info>
+        <type>is_</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_PeptideSettings}{2:TabSeparator}{0:PeptideSettings_Modifications}{2:PropertySeparator}{0:PeptideModifications_HeavyModifications}{2:PropertySeparator}"heavy"{2:PropertySeparator}"Label:15N"{2:PropertySeparator}{0:StaticMod_Label15N}</name>
+        <name>{3:True}</name>
+        <en_expanded>Settings &gt; Molecule Settings -- Modifications &gt; Isotope modifications &gt; "heavy" &gt; "Label:15N" &gt; 15N is True</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PeptidePrecursorChargesString}</name>
+        <name>"2"</name>
+        <name>"2, 3"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Precursor charges changed from "2" to "2, 3"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PeptideProductChargesString}</name>
+        <name>"1"</name>
+        <name>"1, 2"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Ion adducts changed from "1" to "1, 2"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_SmallMoleculePrecursorAdductsString}</name>
+        <name>"[M+H]"</name>
+        <name>"[M-H]"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Precursor adducts changed from "[M+H]" to "[M-H]"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_SmallMoleculeFragmentAdductsString}</name>
+        <name>"[M+]"</name>
+        <name>"[M-]"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Molecule Fragment adducts changed from "[M+]" to "[M-]"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PeptideIonTypesString}</name>
+        <name>"y"</name>
+        <name>"y, b"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Ion types changed from "y" to "y, b"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_StartFragmentFinderLabel}</name>
+        <name>"{6:MzFragmentFinder_m_z__gt__precursor}"</name>
+        <name>"{6:OrdinalFragmentFinder_ion_1}"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Product ion selection start changed from "m/z &gt; precursor" to "ion 1"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_EndFragmentFinderLabel}</name>
+        <name>"{6:DeltaFragmentFinder_3_ions}"</name>
+        <name>"{6:LastFragmentFinder_last_ion}"</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Product ion selection end changed from "3 ions" to "last ion"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>removed_all</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_MeasuredIons}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Special ions: removed all</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Filter}{2:PropertySeparator}{0:TransitionFilter_PrecursorMzWindow}</name>
+        <name>{3:0}</name>
+        <name>{3:5}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Filter &gt; Precursor m/z exclusion window changed from "0" to "5"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Libraries}{2:PropertySeparator}{0:TransitionLibraries_MinIonCount}</name>
+        <name>{3:0}</name>
+        <name>{3:1}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Library &gt; Minimum product ions changed from "0" to "1"</en_expanded>
+      </all_info>
+      <all_info>
+        <type>changed_from_to</type>
+        <name>{0:Settings}{2:PropertySeparator}{0:SrmSettings_TransitionSettings}{2:TabSeparator}{0:TransitionSettings_Libraries}{2:PropertySeparator}{0:TransitionLibraries_IonCount}</name>
+        <name>{3:3}</name>
+        <name>{3:5}</name>
+        <en_expanded>Settings &gt; Transition Settings -- Library &gt; Product ions changed from "3" to "5"</en_expanded>
+      </all_info>
+      <hash>KNhJOc5tJvUXOD5bnJ3M9rF2Gg4=</hash>
+    </audit_log_entry>
+  </audit_log>
+</audit_log_root>
