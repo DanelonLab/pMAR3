@@ -20,3 +20,6 @@
 
 ## Image display by IMDISP
 Finally the liposomes are also displayed as a montage of the cropped images. For this we used IMDISP, which was originally developed by Oliver Woodford on 10 Dec 2008 (Updated 09 Jun 2010) as a standalone package for MATLAB. We have included the code here for future compatibility reasons as it is no longer maintained by the original author. Oliver Woodford (2024). imdisp (https://www.mathworks.com/matlabcentral/fileexchange/22387-imdisp), MATLAB Central File Exchange. Retrieved November 6, 2024.
+
+## Developer
+Mats van Tongeren, with modifications by Federico Ramirez Gomez.
