@@ -1,4 +1,8 @@
-# SMELDit: A semi-automated pipeline for liposome recognition, segregation, analysis and display
+# SMELDit
+A semi-automated pipeline for liposome recognition, segregation, analysis and display
+
+## License
+This project is licensed under the MIT License.
 
 ## Liposome Recognition
 - To generate liposome recognitions, use the `Save_Recognized_liposomes.m` and follow the instructions for setting the input directory, number of experiments and number of images per experiment to process
@@ -23,3 +27,4 @@ Finally the liposomes are also displayed as a montage of the cropped images. For
 
 ## Developer
 Mats van Tongeren, with modifications by Federico Ramirez Gomez.
+
