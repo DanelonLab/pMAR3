@@ -86,6 +86,9 @@ Both (3, H, W) and (H, W, 3) formats are supported.
 ## Technical note when converting the SMELDit code from MATLAB to Python
 The MATLAB function called `imfill` which we used for processing grayscale images has no disclosed algorithm in the Mathworks documentation. Therefore, when converting the code to Python, we had to approximate its function with `skimage.morphology.reconstruction` which performs similarly, but not exactly the same. Therefore, the results obtained with the MATLAB and Python versions may not be identical since the liposome recognition function is slightly different.
 
+##  Developer
+Mats van Tongeren
+
 ## 📬 Contact
 For questions, issues, or collaborations, feel free to contact:
 
@@ -94,5 +97,3 @@ Corresponding Author
 
 danelon@insa-toulouse.fr
 
-##  Developer
-Mats van Tongeren
