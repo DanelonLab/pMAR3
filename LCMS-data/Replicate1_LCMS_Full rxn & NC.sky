@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<srm_settings format_version="22.22" software_version="Skyline-daily (64-bit) 22.2.1.391 (1e3a4e917)">
+  <settings_summary name="Default">
+    <peptide_settings>
+      <enzyme name="Trypsin" cut="KR" no_cut="P" sense="C" />
+      <digest_settings max_missed_cleavages="0" />
+      <peptide_prediction use_measured_rts="true" measured_rt_window="2" />
+      <peptide_filter start="25" min_length="8" max_length="25" auto_select="true">
+        <peptide_exclusions />
+      </peptide_filter>
+      <peptide_libraries pick="library" />
+      <peptide_modifications max_variable_mods="3" max_neutral_losses="1">
+        <static_modifications>
+          <static_modification name="Carbamidomethyl (C)" aminoacid="C" formula="H3C2NO" unimod_id="4" short_name="CAM" />
+        </static_modifications>
+        <heavy_modifications />
+      </peptide_modifications>
+      <quantification weighting="none" fit="none" normalization="none" ms_level="2" />
+    </peptide_settings>
+    <transition_settings>
+      <transition_prediction precursor_mass_type="Monoisotopic" fragment_mass_type="Monoisotopic" optimize_by="None">
+        <predict_collision_energy name="Agilent QQQ" step_size="2" step_count="3">
+          <regression_ce charge="2" slope="0.031" intercept="1" />
+          <regression_ce charge="3" slope="0.036" intercept="-4.8" />
+        </predict_collision_energy>
+      </transition_prediction>
+      <transition_filter precursor_charges="2" product_charges="1" precursor_adducts="[M-]" product_adducts="[M-]" fragment_types="y" small_molecule_fragment_types="f,p" fragment_range_first="m/z &gt; precursor" fragment_range_last="3 ions" precursor_mz_window="0" auto_select="true">
+        <measured_ion name="N-terminal to Proline" cut="P" sense="N" min_length="3" />
+      </transition_filter>
+      <transition_libraries ion_match_tolerance="0.5" min_ion_count="0" ion_count="3" pick_from="all" />
+      <transition_integration />
+      <transition_instrument min_mz="50" max_mz="1500" mz_match_tolerance="0.055" />
+    </transition_settings>
+    <data_settings document_guid="71b63e1c-43f7-4003-aa30-b251333e21b6" audit_logging="true" />
+    <measured_results time_normal_area="true">
+      <replicate name="Replicate 1. Full rxn 2 ul (1)">
+        <sample_file id="Replicate_1._Full_rxn_2_ul_:1:_f0" file_path="N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1.d" sample_name="phospholipids_20230306_1" instrument_serial_number="SG13337015" acquired_time="2023-03-06T19:44:35" modified_time="2023-03-07T08:56:28" import_time="2023-03-07T07:58:08.1590479Z" ion_mobility_type="drift_time_msec">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Agilent instrument model</model>
+              <ionsource>microelectrospray</ionsource>
+              <analyzer>quadrupole/quadrupole/quadrupole</analyzer>
+              <detector>electron multiplier</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="Replicate 1. Full rxn 2 ul (2)">
+        <sample_file id="Replicate_1._Full_rxn_2_ul_:2:_f0" file_path="N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_1b.d" sample_name="phospholipids_20230306_1b" instrument_serial_number="SG13337015" acquired_time="2023-03-06T20:47:39" modified_time="2023-03-07T08:56:29" import_time="2023-03-07T07:58:07.8827852Z" ion_mobility_type="drift_time_msec">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Agilent instrument model</model>
+              <ionsource>microelectrospray</ionsource>
+              <analyzer>quadrupole/quadrupole/quadrupole</analyzer>
+              <detector>electron multiplier</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="Replicate 1. Full rxn 4 ul (1)">
+        <sample_file id="Replicate_1._Full_rxn_4_ul_:1:_f0" file_path="N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2.d" sample_name="phospholipids_20230306_2" instrument_serial_number="SG13337015" acquired_time="2023-03-06T20:00:21" modified_time="2023-03-07T08:56:30" import_time="2023-03-07T07:58:07.7281974Z" ion_mobility_type="drift_time_msec">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Agilent instrument model</model>
+              <ionsource>microelectrospray</ionsource>
+              <analyzer>quadrupole/quadrupole/quadrupole</analyzer>
+              <detector>electron multiplier</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="Replicate 1. Full rxn 4 ul (2)">
+        <sample_file id="Replicate_1._Full_rxn_4_ul_:2:_f0" file_path="N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_2b.d" sample_name="phospholipids_20230306_2b" instrument_serial_number="SG13337015" acquired_time="2023-03-06T21:03:25" modified_time="2023-03-07T08:56:31" import_time="2023-03-07T07:58:08.393425Z" ion_mobility_type="drift_time_msec">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Agilent instrument model</model>
+              <ionsource>microelectrospray</ionsource>
+              <analyzer>quadrupole/quadrupole/quadrupole</analyzer>
+              <detector>electron multiplier</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="Replicate 1. NC (1)">
+        <sample_file id="Replicate_1._NC_:1:_f0" file_path="N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3.d" sample_name="phospholipids_20230306_3" instrument_serial_number="SG13337015" acquired_time="2023-03-06T19:28:49" modified_time="2023-03-07T08:56:32" import_time="2023-03-07T07:58:08.7051155Z" ion_mobility_type="drift_time_msec">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Agilent instrument model</model>
+              <ionsource>microelectrospray</ionsource>
+              <analyzer>quadrupole/quadrupole/quadrupole</analyzer>
+              <detector>electron multiplier</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+      <replicate name="Replicate 1. NC (2)">
+        <sample_file id="Replicate_1._NC_:2:_f0" file_path="N:\tnw\BN\Shared\Instruments\GB lab\Adja\Ana\raw_data\phospholipids_20230306\phospholipids_20230306_3b.d" sample_name="phospholipids_20230306_3b" instrument_serial_number="SG13337015" acquired_time="2023-03-06T20:31:53" modified_time="2023-03-07T08:56:34" import_time="2023-03-07T07:58:09.0332405Z" ion_mobility_type="drift_time_msec">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Agilent instrument model</model>
+              <ionsource>microelectrospray</ionsource>
+              <analyzer>quadrupole/quadrupole/quadrupole</analyzer>
+              <detector>electron multiplier</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+    </measured_results>
+  </settings_summary>
+  <peptide_list label_name="regular oleoyl" label_description="" websearch_status="X">
+    <molecule neutral_mass_average="1004.4994514200905" neutral_mass_monoisotopic="1004.4994514200905" custom_ion_name="CDP_DOG" avg_measured_retention_time="5.63995838">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="5.65463352" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="5.63506651" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="5.64485" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="5.64485" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="5.64485" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="5.6155" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="1004.5" explicit_collision_energy="55" collision_energy="32.1395" ion_formula="[M-]" neutral_mass_average="1004.4994514200905" neutral_mass_monoisotopic="1004.4994514200905" custom_ion_name="CDP_DOG">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="5.65463352" start_time="5.53723335" end_time="5.97746658" fwhm="0.1179205" area="1724.55957" background="1135.3092" height="208.860016" truncated="0" identified="false" user_set="TRUE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="5.63506651" start_time="5.53723335" end_time="5.9187665" fwhm="0.104776628" area="1569.36353" background="975.6932" height="204.560028" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="5.64485" start_time="5.54701662" end_time="5.9187665" fwhm="0.120020583" area="2979.71558" background="990.8259" height="370.7" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="5.64485" start_time="5.53723335" end_time="5.86985" fwhm="0.115553506" area="3143.39966" background="851.8018" height="404.820038" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="5.64485" start_time="5.566583" end_time="5.73288345" fwhm="0.07682246" area="68.7993" background="427.717957" height="14.1399994" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="5.6155" start_time="5.53723335" end_time="5.75245" fwhm="0.114899658" area="79.2034149" background="550.121033" height="12.02" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="761.49945142009051" neutral_mass_monoisotopic="761.49945142009051" product_charge="-1">
+          <precursor_mz>1004.5</precursor_mz>
+          <product_mz>761.5</product_mz>
+          <collision_energy>32.1395</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="5.65463352" start_time="5.53723335" end_time="5.97746658" area="1724.55957" background="1135.3092" height="208.860016" fwhm="0.1179205" truncated="false" identified="false" rank="1" points_across="46" user_set="TRUE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="5.63506651" start_time="5.53723335" end_time="5.9187665" area="1569.36353" background="975.6932" height="204.560028" fwhm="0.104776628" truncated="false" identified="false" rank="1" points_across="40" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="5.64485" start_time="5.54701662" end_time="5.9187665" area="2979.71558" background="990.8259" height="370.7" fwhm="0.120020583" truncated="false" identified="false" rank="1" points_across="39" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="5.64485" start_time="5.53723335" end_time="5.86985" area="3143.39966" background="851.8018" height="404.820038" fwhm="0.115553506" truncated="false" identified="false" rank="1" points_across="35" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="5.64485" start_time="5.566583" end_time="5.73288345" area="68.7993" background="427.717957" height="14.1399994" fwhm="0.07682246" truncated="false" identified="false" rank="1" points_across="18" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="5.6155" start_time="5.53723335" end_time="5.75245" area="79.2034149" background="550.121033" height="12.02" fwhm="0.114899658" truncated="false" identified="false" rank="1" points_across="23" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="786.49945142009051" neutral_mass_monoisotopic="786.49945142009051" custom_ion_name="DOPS" avg_measured_retention_time="7.445075">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="7.03581667" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="7.0456" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="7.0456" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="7.0456" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="9.481584" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="7.01625" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="786.5" explicit_collision_energy="40" collision_energy="25.3815" ion_formula="[M-]" neutral_mass_average="786.49945142009051" neutral_mass_monoisotopic="786.49945142009051" custom_ion_name="DOPS">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="7.03581667" start_time="6.9282" end_time="7.2804" fwhm="0.116611324" area="103553.133" background="1282.34387" height="13390.001" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="7.0456" start_time="6.93798351" end_time="7.29018354" fwhm="0.119040109" area="101604.914" background="1582.77637" height="12951.8809" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="7.0456" start_time="6.93798351" end_time="7.299967" fwhm="0.118503295" area="150913.953" background="1684.0802" height="19260.5625" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="7.0456" start_time="6.93798351" end_time="7.29018354" fwhm="0.117930055" area="150073.25" background="1533.75037" height="19304.5215" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="9.481584" start_time="9.373966" end_time="9.745717" fwhm="0.212487131" area="522.493042" background="1037.43713" height="43.32" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="7.01625" start_time="6.93798351" end_time="7.30975" fwhm="0.151973248" area="708.263733" background="1013.13177" height="69.98001" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>786.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>25.3815</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="7.03581667" start_time="6.9282" end_time="7.2804" area="103553.133" background="1282.34387" height="13390.001" fwhm="0.116611324" truncated="false" identified="false" rank="1" points_across="37" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="7.0456" start_time="6.93798351" end_time="7.29018354" area="101604.914" background="1582.77637" height="12951.8809" fwhm="0.119040109" truncated="false" identified="false" rank="1" points_across="37" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="7.0456" start_time="6.93798351" end_time="7.299967" area="150913.953" background="1684.0802" height="19260.5625" fwhm="0.118503295" truncated="false" identified="false" rank="1" points_across="38" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="7.0456" start_time="6.93798351" end_time="7.29018354" area="150073.25" background="1533.75037" height="19304.5215" fwhm="0.117930055" truncated="false" identified="false" rank="1" points_across="37" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="9.481584" start_time="9.373966" end_time="9.745717" area="522.493042" background="1037.43713" height="43.32" fwhm="0.212487131" truncated="false" identified="false" rank="1" points_across="39" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="7.01625" start_time="6.93798351" end_time="7.30975" area="708.263733" background="1013.13177" height="69.98001" fwhm="0.151973248" truncated="false" identified="false" rank="1" points_across="39" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="773.49945142009051" neutral_mass_monoisotopic="773.49945142009051" custom_ion_name="DOPG" avg_measured_retention_time="7.307372">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="7.30085" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="7.30085" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="7.32041645" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="7.310633" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="7.310633" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="7.30085" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="773.5" explicit_collision_energy="37" collision_energy="24.9785" ion_formula="[M-]" neutral_mass_average="773.49945142009051" neutral_mass_monoisotopic="773.49945142009051" custom_ion_name="DOPG">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="7.30085" start_time="7.20301676" end_time="7.6237" fwhm="0.1384502" area="1718886.25" background="16629.166" height="194433.484" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="7.30085" start_time="7.20301676" end_time="7.63348341" fwhm="0.13609156" area="1684390.88" background="7972.534" height="188485.422" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="7.32041645" start_time="7.20301676" end_time="7.750867" fwhm="0.160593316" area="2360797.5" background="8588.739" height="224431.188" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="7.310633" start_time="7.20301676" end_time="7.77043343" fwhm="0.157109112" area="2314831.75" background="13588.35" height="223952.313" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="7.310633" start_time="7.2128" end_time="7.6237" fwhm="0.135443091" area="1635003.63" background="19976.51" height="187208.125" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="7.30085" start_time="7.20301676" end_time="7.6237" fwhm="0.135931537" area="1605660.13" background="10672.3291" height="183737.047" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>773.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>24.9785</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="7.30085" start_time="7.20301676" end_time="7.6237" area="1718886.25" background="16629.166" height="194433.484" fwhm="0.1384502" truncated="false" identified="false" rank="1" points_across="44" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="7.30085" start_time="7.20301676" end_time="7.63348341" area="1684390.88" background="7972.534" height="188485.422" fwhm="0.13609156" truncated="false" identified="false" rank="1" points_across="45" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="7.32041645" start_time="7.20301676" end_time="7.750867" area="2360797.5" background="8588.739" height="224431.188" fwhm="0.160593316" truncated="false" identified="false" rank="1" points_across="57" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="7.310633" start_time="7.20301676" end_time="7.77043343" area="2314831.75" background="13588.35" height="223952.313" fwhm="0.157109112" truncated="false" identified="false" rank="1" points_across="59" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="7.310633" start_time="7.2128" end_time="7.6237" area="1635003.63" background="19976.51" height="187208.125" fwhm="0.135443091" truncated="false" identified="false" rank="1" points_across="43" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="7.30085" start_time="7.20301676" end_time="7.6237" area="1605660.13" background="10672.3291" height="183737.047" fwhm="0.135931537" truncated="false" identified="false" rank="1" points_across="44" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="742.49945142009051" neutral_mass_monoisotopic="742.49945142009051" custom_ion_name="DOPE" avg_measured_retention_time="8.815756">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="8.809234" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="8.809234" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="8.819016" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="8.8288" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="8.809234" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="8.819016" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="742.5" explicit_collision_energy="25" collision_energy="24.0175" ion_formula="[M-]" neutral_mass_average="742.49945142009051" neutral_mass_monoisotopic="742.49945142009051" custom_ion_name="DOPE">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="8.809234" start_time="8.6918335" end_time="9.278816" fwhm="0.177168" area="1040959.5" background="16570.7969" height="87937.96" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="8.809234" start_time="8.6918335" end_time="9.415767" fwhm="0.178820759" area="1045955.06" background="16354.3691" height="87924.34" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="8.819016" start_time="8.701616" end_time="9.415767" fwhm="0.174019769" area="1494293.5" background="24825.4883" height="119843.906" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="8.8288" start_time="8.701616" end_time="9.42555" fwhm="0.180464238" area="1517965.63" background="16694.7969" height="120202.508" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="8.809234" start_time="8.701616" end_time="9.42555" fwhm="0.176578566" area="1017167.75" background="14333.4063" height="85342.23" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="8.819016" start_time="8.701616" end_time="9.415767" fwhm="0.173671618" area="1019539.94" background="20037.1152" height="87064.89" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>742.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>24.0175</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="8.809234" start_time="8.6918335" end_time="9.278816" area="1040959.5" background="16570.7969" height="87937.96" fwhm="0.177168" truncated="false" identified="false" rank="1" points_across="61" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="8.809234" start_time="8.6918335" end_time="9.415767" area="1045955.06" background="16354.3691" height="87924.34" fwhm="0.178820759" truncated="false" identified="false" rank="1" points_across="75" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="8.819016" start_time="8.701616" end_time="9.415767" area="1494293.5" background="24825.4883" height="119843.906" fwhm="0.174019769" truncated="false" identified="false" rank="1" points_across="74" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="8.8288" start_time="8.701616" end_time="9.42555" area="1517965.63" background="16694.7969" height="120202.508" fwhm="0.180464238" truncated="false" identified="false" rank="1" points_across="75" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="8.809234" start_time="8.701616" end_time="9.42555" area="1017167.75" background="14333.4063" height="85342.23" fwhm="0.176578566" truncated="false" identified="false" rank="1" points_across="75" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="8.819016" start_time="8.701616" end_time="9.415767" area="1019539.94" background="20037.1152" height="87064.89" fwhm="0.173671618" truncated="false" identified="false" rank="1" points_across="74" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="727.49945142009051" neutral_mass_monoisotopic="727.49945142009051" custom_ion_name="CL" avg_measured_retention_time="8.399233">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="8.38945" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="8.399233" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="8.399233" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="8.409017" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="8.399233" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="8.399233" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="727.5" explicit_collision_energy="29" collision_energy="23.5525" ion_formula="[M-]" neutral_mass_average="727.49945142009051" neutral_mass_monoisotopic="727.49945142009051" custom_ion_name="CL">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="8.38945" start_time="8.252483" end_time="8.751416" fwhm="0.136387214" area="81267.95" background="2571.098" height="8773.721" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="8.399233" start_time="8.252483" end_time="8.751416" fwhm="0.139021859" area="80438.36" background="2579.48047" height="8540.78" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="8.399233" start_time="8.281834" end_time="8.545983" fwhm="0.13505435" area="71891.72" background="1450.42017" height="8636.801" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="8.409017" start_time="8.281834" end_time="8.545983" fwhm="0.1356825" area="74306.67" background="1262.77844" height="8971.501" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="8.399233" start_time="8.252483" end_time="8.555767" fwhm="0.138716117" area="73035.53" background="1874.73389" height="8501.741" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="8.399233" start_time="8.2427" end_time="8.7612" fwhm="0.140467554" area="83845.16" background="2428.005" height="8735.261" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>727.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>23.5525</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="8.38945" start_time="8.252483" end_time="8.751416" area="81267.95" background="2571.098" height="8773.721" fwhm="0.136387214" truncated="false" identified="false" rank="1" points_across="52" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="8.399233" start_time="8.252483" end_time="8.751416" area="80438.36" background="2579.48047" height="8540.78" fwhm="0.139021859" truncated="false" identified="false" rank="1" points_across="52" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="8.399233" start_time="8.281834" end_time="8.545983" area="71891.72" background="1450.42017" height="8636.801" fwhm="0.13505435" truncated="false" identified="false" rank="1" points_across="28" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="8.409017" start_time="8.281834" end_time="8.545983" area="74306.67" background="1262.77844" height="8971.501" fwhm="0.1356825" truncated="false" identified="false" rank="1" points_across="28" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="8.399233" start_time="8.252483" end_time="8.555767" area="73035.53" background="1874.73389" height="8501.741" fwhm="0.138716117" truncated="false" identified="false" rank="1" points_across="32" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="8.399233" start_time="8.2427" end_time="8.7612" area="83845.16" background="2428.005" height="8735.261" fwhm="0.140467554" truncated="false" identified="false" rank="1" points_across="54" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="699.49945142009051" neutral_mass_monoisotopic="699.49945142009051" custom_ion_name="DOPA" avg_measured_retention_time="7.56368065">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="6.60005" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="6.60983324" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="6.60983324" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="6.61961651" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="9.446917" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="9.495833" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="699.5" explicit_collision_energy="37" collision_energy="22.6845" ion_formula="[M-]" neutral_mass_average="699.49945142009051" neutral_mass_monoisotopic="699.49945142009051" custom_ion_name="DOPA">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="6.60005" start_time="6.502217" end_time="6.92288351" fwhm="0.127971888" area="54849.4453" background="1638.12988" height="6487.40039" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="6.60983324" start_time="6.502217" end_time="6.94245" fwhm="0.129327357" area="54139.8047" background="1224.06311" height="6217.10059" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="6.60983324" start_time="6.502217" end_time="6.932667" fwhm="0.126053318" area="86374.85" background="2032.13367" height="10287.2607" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="6.61961651" start_time="6.512" end_time="6.932667" fwhm="0.124215975" area="86519.28" background="2098.523" height="10458.0811" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="9.446917" start_time="9.349083" end_time="9.88715" fwhm="0.2155953" area="8310.175" background="1430.28577" height="654.3401" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="9.495833" start_time="9.3393" end_time="9.896934" fwhm="0.20553714" area="7998.34766" background="1551.74255" height="604.920044" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>699.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>22.6845</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="6.60005" start_time="6.502217" end_time="6.92288351" area="54849.4453" background="1638.12988" height="6487.40039" fwhm="0.127971888" truncated="false" identified="false" rank="1" points_across="44" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="6.60983324" start_time="6.502217" end_time="6.94245" area="54139.8047" background="1224.06311" height="6217.10059" fwhm="0.129327357" truncated="false" identified="false" rank="1" points_across="46" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="6.60983324" start_time="6.502217" end_time="6.932667" area="86374.85" background="2032.13367" height="10287.2607" fwhm="0.126053318" truncated="false" identified="false" rank="1" points_across="45" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="6.61961651" start_time="6.512" end_time="6.932667" area="86519.28" background="2098.523" height="10458.0811" fwhm="0.124215975" truncated="false" identified="false" rank="1" points_across="44" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="9.446917" start_time="9.349083" end_time="9.88715" area="8310.175" background="1430.28577" height="654.3401" fwhm="0.2155953" truncated="false" identified="false" rank="1" points_across="56" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="9.495833" start_time="9.3393" end_time="9.896934" area="7998.34766" background="1551.74255" height="604.920044" fwhm="0.20553714" truncated="false" identified="false" rank="1" points_across="58" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="435.29945142009058" neutral_mass_monoisotopic="435.29945142009058" custom_ion_name="C18:1-LPA" avg_measured_retention_time="6.91236973">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="6.904217" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="6.914" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="6.9237833" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="6.914" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="6.904217" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="6.914" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="435.3" explicit_collision_energy="17" collision_energy="14.4943" ion_formula="[M-]" neutral_mass_average="435.29945142009058" neutral_mass_monoisotopic="435.29945142009058" custom_ion_name="C18:1-LPA">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="6.904217" start_time="6.55203342" end_time="7.20748329" fwhm="0.119857572" area="1202.127" background="1732.80066" height="122.060013" truncated="0" identified="false" user_set="TRUE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="6.914" start_time="6.816167" end_time="7.21726656" fwhm="0.108672261" area="1074.66663" background="1065.67969" height="137.700012" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="6.9237833" start_time="6.816167" end_time="7.109667" fwhm="0.108322345" area="2030.93018" background="909.3744" height="279.12" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="6.914" start_time="6.816167" end_time="7.13901663" fwhm="0.102330215" area="2178.88257" background="1056.87488" height="303.940033" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="6.904217" start_time="6.83573341" end_time="7.109667" fwhm="0.142338663" area="446.404633" background="764.597656" height="54.8000031" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="6.914" start_time="6.82595" end_time="7.158583" fwhm="0.130964071" area="616.615967" background="902.0957" height="74.2400055" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="152.89945142009054" neutral_mass_monoisotopic="152.89945142009054" product_charge="-1">
+          <precursor_mz>435.3</precursor_mz>
+          <product_mz>152.9</product_mz>
+          <collision_energy>14.4943</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="6.904217" start_time="6.55203342" end_time="7.20748329" area="1202.127" background="1732.80066" height="122.060013" fwhm="0.119857572" truncated="false" identified="false" rank="1" points_across="68" user_set="TRUE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="6.914" start_time="6.816167" end_time="7.21726656" area="1074.66663" background="1065.67969" height="137.700012" fwhm="0.108672261" truncated="false" identified="false" rank="1" points_across="42" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="6.9237833" start_time="6.816167" end_time="7.109667" area="2030.93018" background="909.3744" height="279.12" fwhm="0.108322345" truncated="false" identified="false" rank="1" points_across="31" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="6.914" start_time="6.816167" end_time="7.13901663" area="2178.88257" background="1056.87488" height="303.940033" fwhm="0.102330215" truncated="false" identified="false" rank="1" points_across="34" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="6.904217" start_time="6.83573341" end_time="7.109667" area="446.404633" background="764.597656" height="54.8000031" fwhm="0.142338663" truncated="false" identified="false" rank="1" points_across="29" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="6.914" start_time="6.82595" end_time="7.158583" area="616.615967" background="902.0957" height="74.2400055" fwhm="0.130964071" truncated="false" identified="false" rank="1" points_across="35" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+  </peptide_list>
+  <peptide_list label_name="regular palmitoyl" label_description="" websearch_status="X">
+    <molecule neutral_mass_average="952.49945142009051" neutral_mass_monoisotopic="952.49945142009051" custom_ion_name="CDP-DPG" avg_measured_retention_time="13.8243418">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="13.9417334" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="0" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="0" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="0" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="13.70695" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="0" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="952.5" explicit_collision_energy="55" collision_energy="30.5275" ion_formula="[M-]" neutral_mass_average="952.49945142009051" neutral_mass_monoisotopic="952.49945142009051" custom_ion_name="CDP-DPG">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="13.9417334" start_time="13.87325" end_time="14.000433" fwhm="0.0624490045" area="10.5664444" background="325.08255" height="3.10000229" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="13.70695" start_time="13.6384668" end_time="13.7754335" fwhm="0.0625826344" area="15.513546" background="350.8892" height="4.55999756" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="709.39945142009049" neutral_mass_monoisotopic="709.39945142009049" product_charge="-1">
+          <precursor_mz>952.5</precursor_mz>
+          <product_mz>709.4</product_mz>
+          <collision_energy>30.5275</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="13.9417334" start_time="13.87325" end_time="14.000433" area="10.5664444" background="325.08255" height="3.10000229" fwhm="0.0624490045" truncated="false" identified="false" rank="1" points_across="14" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="13.70695" start_time="13.6384668" end_time="13.7754335" area="15.513546" background="350.8892" height="4.55999756" fwhm="0.0625826344" truncated="false" identified="false" rank="1" points_across="15" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="743.49945142009051" neutral_mass_monoisotopic="743.49945142009051" custom_ion_name="DPPS" avg_measured_retention_time="3.34940553">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="1.67651665" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="0.8351667" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="0.90365" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="8.231133" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="0.893866658" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="7.5561" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="743.5" explicit_collision_energy="41" collision_energy="24.0485" ion_formula="[M-]" neutral_mass_average="743.49945142009051" neutral_mass_monoisotopic="743.49945142009051" custom_ion_name="DPPS">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="1.67651665" start_time="1.6276" end_time="1.80368328" area="36.9577" background="450.748077" height="4.93999863" truncated="0" identified="false" user_set="TRUE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="0.8351667" start_time="0.76668334" end_time="1.0504" fwhm="0.07466751" area="76.486084" background="726.54126" height="10.7000008" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="0.90365" start_time="0.7471167" end_time="1.06018329" fwhm="0.208310038" area="96.3618851" background="802.064636" height="9.34" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="8.231133" start_time="8.172433" end_time="8.299617" fwhm="0.07091304" area="31.863718" background="326.162659" height="7.02000046" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="0.893866658" start_time="0.76668334" end_time="0.942783356" fwhm="0.121626996" area="53.0119362" background="453.069855" height="7.87999725" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="7.5561" start_time="7.32131672" end_time="7.8006835" fwhm="0.259703845" area="130.06076" background="1230.44958" height="8.540001" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="255.09945142009053" neutral_mass_monoisotopic="255.09945142009053" product_charge="-1">
+          <precursor_mz>743.5</precursor_mz>
+          <product_mz>255.1</product_mz>
+          <collision_energy>24.0485</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="1.67651665" start_time="1.6276" end_time="1.80368328" area="36.9577" background="450.748077" height="4.93999863" fwhm="0.1473451" fwhm_degenerate="true" truncated="false" identified="false" rank="1" points_across="19" user_set="TRUE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="0.8351667" start_time="0.76668334" end_time="1.0504" area="76.486084" background="726.54126" height="10.7000008" fwhm="0.07466751" truncated="false" identified="false" rank="1" points_across="30" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="0.90365" start_time="0.7471167" end_time="1.06018329" area="96.3618851" background="802.064636" height="9.34" fwhm="0.208310038" truncated="false" identified="false" rank="1" points_across="33" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="8.231133" start_time="8.172433" end_time="8.299617" area="31.863718" background="326.162659" height="7.02000046" fwhm="0.07091304" truncated="false" identified="false" rank="1" points_across="14" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="0.893866658" start_time="0.76668334" end_time="0.942783356" area="53.0119362" background="453.069855" height="7.87999725" fwhm="0.121626996" truncated="false" identified="false" rank="1" points_across="19" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="7.5561" start_time="7.32131672" end_time="7.8006835" area="130.06076" background="1230.44958" height="8.540001" fwhm="0.259703845" truncated="false" identified="false" rank="1" points_across="50" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="409.19945142009055" neutral_mass_monoisotopic="409.19945142009055" custom_ion_name="C16:0-LPA" avg_measured_retention_time="4.6623">
+      <peptide_results>
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="4.64433336" />
+        <peptide_result replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="4.66393328" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="4.65413332" />
+        <peptide_result replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="4.66393328" />
+        <peptide_result replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="4.66393328" />
+        <peptide_result replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="4.683533" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="409.2" explicit_collision_energy="13" collision_energy="13.6852" ion_formula="[M-]" neutral_mass_average="409.19945142009055" neutral_mass_monoisotopic="409.19945142009055" custom_ion_name="C16:0-LPA">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (1)" peak_count_ratio="1" retention_time="4.64433336" start_time="4.575733" end_time="4.75213337" fwhm="0.08822624" area="110.765671" background="493.7676" height="19.981514" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 2 ul (2)" peak_count_ratio="1" retention_time="4.66393328" start_time="4.595333" end_time="4.791333" fwhm="0.0827773" area="141.482819" background="565.6569" height="28.2799377" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (1)" peak_count_ratio="1" retention_time="4.65413332" start_time="4.53653336" end_time="4.76193333" fwhm="0.07235753" area="167.80687" background="602.4862" height="32.6660347" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. Full rxn 4 ul (2)" peak_count_ratio="1" retention_time="4.66393328" start_time="4.53653336" end_time="4.75213337" fwhm="0.0762663856" area="169.8491" background="596.064941" height="32.16308" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (1)" peak_count_ratio="1" retention_time="4.66393328" start_time="4.54633331" end_time="4.84033346" fwhm="0.116788708" area="192.832367" background="763.382141" height="25.2176056" truncated="0" identified="false" user_set="FALSE" />
+          <precursor_peak replicate="Replicate 1. NC (2)" peak_count_ratio="1" retention_time="4.683533" start_time="4.575733" end_time="4.810933" fwhm="0.07229472" area="173.600571" background="635.3806" height="29.98061" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="152.89945142009054" neutral_mass_monoisotopic="152.89945142009054" product_charge="-1">
+          <precursor_mz>409.2</precursor_mz>
+          <product_mz>152.9</product_mz>
+          <collision_energy>13.6852</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (1)" retention_time="4.64433336" start_time="4.575733" end_time="4.75213337" area="110.765671" background="493.7676" height="19.981514" fwhm="0.08822624" truncated="false" identified="false" rank="1" points_across="18" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 2 ul (2)" retention_time="4.66393328" start_time="4.595333" end_time="4.791333" area="141.482819" background="565.6569" height="28.2799377" fwhm="0.0827773" truncated="false" identified="false" rank="1" points_across="20" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (1)" retention_time="4.65413332" start_time="4.53653336" end_time="4.76193333" area="167.80687" background="602.4862" height="32.6660347" fwhm="0.07235753" truncated="false" identified="false" rank="1" points_across="23" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. Full rxn 4 ul (2)" retention_time="4.66393328" start_time="4.53653336" end_time="4.75213337" area="169.8491" background="596.064941" height="32.16308" fwhm="0.0762663856" truncated="false" identified="false" rank="1" points_across="22" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (1)" retention_time="4.66393328" start_time="4.54633331" end_time="4.84033346" area="192.832367" background="763.382141" height="25.2176056" fwhm="0.116788708" truncated="false" identified="false" rank="1" points_across="30" user_set="FALSE" />
+            <transition_peak replicate="Replicate 1. NC (2)" retention_time="4.683533" start_time="4.575733" end_time="4.810933" area="173.600571" background="635.3806" height="29.98061" fwhm="0.07229472" truncated="false" identified="false" rank="1" points_across="24" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+  </peptide_list>
+</srm_settings>

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<srm_settings format_version="22.22" software_version="Skyline-daily (64-bit) 22.2.1.391 (1e3a4e917)">
+  <settings_summary name="Default">
+    <peptide_settings>
+      <enzyme name="Trypsin" cut="KR" no_cut="P" sense="C" />
+      <digest_settings max_missed_cleavages="0" />
+      <peptide_prediction use_measured_rts="true" measured_rt_window="2" />
+      <peptide_filter start="25" min_length="8" max_length="25" auto_select="true">
+        <peptide_exclusions />
+      </peptide_filter>
+      <peptide_libraries pick="library" />
+      <peptide_modifications max_variable_mods="3" max_neutral_losses="1">
+        <static_modifications>
+          <static_modification name="Carbamidomethyl (C)" aminoacid="C" formula="H3C2NO" unimod_id="4" short_name="CAM" />
+        </static_modifications>
+        <heavy_modifications />
+      </peptide_modifications>
+      <quantification weighting="none" fit="none" normalization="none" ms_level="2" />
+    </peptide_settings>
+    <transition_settings>
+      <transition_prediction precursor_mass_type="Monoisotopic" fragment_mass_type="Monoisotopic" optimize_by="None">
+        <predict_collision_energy name="Agilent QQQ" step_size="2" step_count="3">
+          <regression_ce charge="2" slope="0.031" intercept="1" />
+          <regression_ce charge="3" slope="0.036" intercept="-4.8" />
+        </predict_collision_energy>
+      </transition_prediction>
+      <transition_filter precursor_charges="2" product_charges="1" precursor_adducts="[M-]" product_adducts="[M-]" fragment_types="y" small_molecule_fragment_types="f,p" fragment_range_first="m/z &gt; precursor" fragment_range_last="3 ions" precursor_mz_window="0" auto_select="true">
+        <measured_ion name="N-terminal to Proline" cut="P" sense="N" min_length="3" />
+      </transition_filter>
+      <transition_libraries ion_match_tolerance="0.5" min_ion_count="0" ion_count="3" pick_from="all" />
+      <transition_integration />
+      <transition_instrument min_mz="50" max_mz="1500" mz_match_tolerance="0.055" />
+    </transition_settings>
+    <data_settings document_guid="6f1e59ee-a657-4028-a79c-47d4e692966a" audit_logging="true" />
+    <measured_results time_normal_area="true">
+      <replicate name="Replicate 3. Full rxn">
+        <sample_file id="Replicate_3._Full_rxn_f0" file_path="C:\Users\anasi\OneDrive - Delft University of Technology\Desktop\pMAR3 paper _ Figures + Fede data\LCMS\LC-MS_Ana_Fede\202206160\phospholipids_20220616_016.d" sample_name="phospholipids_20220616_016" instrument_serial_number="SG13337015" acquired_time="2022-06-16T18:23:24" modified_time="2023-10-16T15:48:11" import_time="2023-10-16T13:49:02.1333985Z" ion_mobility_type="drift_time_msec">
+          <instrument_info_list>
+            <instrument_info>
+              <model>Agilent instrument model</model>
+              <ionsource>microelectrospray</ionsource>
+              <analyzer>quadrupole/quadrupole/quadrupole</analyzer>
+              <detector>electron multiplier</detector>
+            </instrument_info>
+          </instrument_info_list>
+        </sample_file>
+      </replicate>
+    </measured_results>
+  </settings_summary>
+  <peptide_list label_name="regular oleoyl" label_description="" websearch_status="X">
+    <molecule neutral_mass_average="1004.4994514200905" neutral_mass_monoisotopic="1004.4994514200905" custom_ion_name="CDP_DOG" avg_measured_retention_time="4.87198353">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="4.87198353" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="1004.5" explicit_collision_energy="55" collision_energy="32.1395" ion_formula="[M-]" neutral_mass_average="1004.4994514200905" neutral_mass_monoisotopic="1004.4994514200905" custom_ion_name="CDP_DOG">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="4.87198353" start_time="4.79371643" end_time="4.96003342" fwhm="0.08648976" area="146.128082" background="438.495728" height="28.2800064" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="761.49945142009051" neutral_mass_monoisotopic="761.49945142009051" product_charge="-1">
+          <precursor_mz>1004.5</precursor_mz>
+          <product_mz>761.5</product_mz>
+          <collision_energy>32.1395</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="4.87198353" start_time="4.79371643" end_time="4.96003342" area="146.128082" background="438.495728" height="28.2800064" fwhm="0.08648976" truncated="false" identified="false" rank="1" std_dev="0.033722233" skewness="0.0742424056" kurtosis="-0.5077909" shape_correlation="1" points_across="18" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="786.49945142009051" neutral_mass_monoisotopic="786.49945142009051" custom_ion_name="DOPS" avg_measured_retention_time="5.95968342">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="5.95968342" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="786.5" explicit_collision_energy="40" collision_energy="25.3815" ion_formula="[M-]" neutral_mass_average="786.49945142009051" neutral_mass_monoisotopic="786.49945142009051" custom_ion_name="DOPS">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="5.95968342" start_time="5.80315" end_time="6.21405" fwhm="0.107412331" area="718.1957" background="1066.5249" height="89.54" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>786.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>25.3815</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="5.95968342" start_time="5.80315" end_time="6.21405" area="718.1957" background="1066.5249" height="89.54" fwhm="0.107412331" truncated="false" identified="false" rank="1" std_dev="0.0675496161" skewness="0.700899661" kurtosis="0.133711234" shape_correlation="1" points_across="43" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="773.49945142009051" neutral_mass_monoisotopic="773.49945142009051" custom_ion_name="DOPG" avg_measured_retention_time="6.07798338">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="6.07798338" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="773.5" explicit_collision_energy="37" collision_energy="24.9785" ion_formula="[M-]" neutral_mass_average="773.49945142009051" neutral_mass_monoisotopic="773.49945142009051" custom_ion_name="DOPG">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="6.07798338" start_time="5.97036648" end_time="6.26385" fwhm="0.11257039" area="448504.2" background="1697.32324" height="63816.2656" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>773.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>24.9785</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="6.07798338" start_time="5.97036648" end_time="6.26385" area="448504.2" background="1697.32324" height="63816.2656" fwhm="0.11257039" truncated="false" identified="false" rank="1" std_dev="0.046265848" skewness="0.456866741" kurtosis="0.08643657" shape_correlation="1" points_across="31" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="742.49945142009051" neutral_mass_monoisotopic="742.49945142009051" custom_ion_name="DOPE" avg_measured_retention_time="7.78201675">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="7.78201675" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="742.5" explicit_collision_energy="25" collision_energy="24.0175" ion_formula="[M-]" neutral_mass_average="742.49945142009051" neutral_mass_monoisotopic="742.49945142009051" custom_ion_name="DOPE">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="7.78201675" start_time="7.6157" end_time="7.9581" fwhm="0.1273935" area="386956.156" background="13048.2676" height="49365.625" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>742.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>24.0175</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="7.78201675" start_time="7.6157" end_time="7.9581" area="386956.156" background="13048.2676" height="49365.625" fwhm="0.1273935" truncated="false" identified="false" rank="1" std_dev="0.0494324937" skewness="0.212525845" kurtosis="-0.283202142" shape_correlation="1" points_across="36" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="727.49945142009051" neutral_mass_monoisotopic="727.49945142009051" custom_ion_name="CL" avg_measured_retention_time="7.89051676">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="7.89051676" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="727.5" explicit_collision_energy="29" collision_energy="23.5525" ion_formula="[M-]" neutral_mass_average="727.49945142009051" neutral_mass_monoisotopic="727.49945142009051" custom_ion_name="CL">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="7.89051676" start_time="7.802467" end_time="8.0764" fwhm="0.0830449238" area="13713.5557" background="768.871" height="2386.72021" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>727.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>23.5525</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="7.89051676" start_time="7.802467" end_time="8.0764" area="13713.5557" background="768.871" height="2386.72021" fwhm="0.0830449238" truncated="false" identified="false" rank="1" std_dev="0.0458413" skewness="0.9209289" kurtosis="0.9490399" shape_correlation="1" points_across="29" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="699.49945142009051" neutral_mass_monoisotopic="699.49945142009051" custom_ion_name="DOPA" avg_measured_retention_time="7.96966648">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="7.96966648" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="699.5" explicit_collision_energy="37" collision_energy="22.6845" ion_formula="[M-]" neutral_mass_average="699.49945142009051" neutral_mass_monoisotopic="699.49945142009051" custom_ion_name="DOPA">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="7.96966648" start_time="7.87185" end_time="8.312083" fwhm="0.1344226" area="1988.32593" background="1168.0636" height="218.140015" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="281.19945142009055" neutral_mass_monoisotopic="281.19945142009055" product_charge="-1">
+          <precursor_mz>699.5</precursor_mz>
+          <product_mz>281.2</product_mz>
+          <collision_energy>22.6845</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="7.96966648" start_time="7.87185" end_time="8.312083" area="1988.32593" background="1168.0636" height="218.140015" fwhm="0.1344226" truncated="false" identified="false" rank="1" std_dev="0.07265566" skewness="1.27442193" kurtosis="2.177758" shape_correlation="1" points_across="46" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="435.29945142009058" neutral_mass_monoisotopic="435.29945142009058" custom_ion_name="C18:1-LPA" avg_measured_retention_time="0.770266652">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="0.770266652" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="435.3" explicit_collision_energy="17" collision_energy="14.4943" ion_formula="[M-]" neutral_mass_average="435.29945142009058" neutral_mass_monoisotopic="435.29945142009058" custom_ion_name="C18:1-LPA">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="0.770266652" start_time="0.54525" end_time="1.17136669" fwhm="0.174725085" area="15427.7139" background="1677.786" height="1291.5" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="152.89945142009054" neutral_mass_monoisotopic="152.89945142009054" product_charge="-1">
+          <precursor_mz>435.3</precursor_mz>
+          <product_mz>152.9</product_mz>
+          <collision_energy>14.4943</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="0.770266652" start_time="0.54525" end_time="1.17136669" area="15427.7139" background="1677.786" height="1291.5" fwhm="0.174725085" truncated="false" identified="false" rank="1" std_dev="0.09992946" skewness="1.13687611" kurtosis="1.73494148" shape_correlation="1" points_across="65" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+  </peptide_list>
+  <peptide_list label_name="regular palmitoyl" label_description="" websearch_status="X">
+    <molecule neutral_mass_average="952.49945142009051" neutral_mass_monoisotopic="952.49945142009051" custom_ion_name="CDP-DPG">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="0" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="952.5" explicit_collision_energy="55" collision_energy="30.5275" ion_formula="[M-]" neutral_mass_average="952.49945142009051" neutral_mass_monoisotopic="952.49945142009051" custom_ion_name="CDP-DPG">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="709.39945142009049" neutral_mass_monoisotopic="709.39945142009049" product_charge="-1">
+          <precursor_mz>952.5</precursor_mz>
+          <product_mz>709.4</product_mz>
+          <collision_energy>30.5275</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="743.49945142009051" neutral_mass_monoisotopic="743.49945142009051" custom_ion_name="DPPS" avg_measured_retention_time="5.7169">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="5.7169" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="743.5" explicit_collision_energy="41" collision_energy="24.0485" ion_formula="[M-]" neutral_mass_average="743.49945142009051" neutral_mass_monoisotopic="743.49945142009051" custom_ion_name="DPPS">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="5.7169" start_time="5.579933" end_time="5.8343" fwhm="0.1420855" area="22.3762875" background="649.5464" height="2.94000244" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="255.09945142009053" neutral_mass_monoisotopic="255.09945142009053" product_charge="-1">
+          <precursor_mz>743.5</precursor_mz>
+          <product_mz>255.1</product_mz>
+          <collision_energy>24.0485</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="5.7169" start_time="5.579933" end_time="5.8343" area="22.3762875" background="649.5464" height="2.94000244" fwhm="0.1420855" truncated="false" identified="false" rank="1" std_dev="0.05124277" skewness="-0.10186588" kurtosis="-0.6582876" shape_correlation="1" points_across="27" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+    <molecule neutral_mass_average="409.19945142009055" neutral_mass_monoisotopic="409.19945142009055" custom_ion_name="C16:0-LPA" avg_measured_retention_time="3.76233339">
+      <peptide_results>
+        <peptide_result replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="3.76233339" />
+      </peptide_results>
+      <precursor charge="-1" precursor_mz="409.2" explicit_collision_energy="13" collision_energy="13.6852" ion_formula="[M-]" neutral_mass_average="409.19945142009055" neutral_mass_monoisotopic="409.19945142009055" custom_ion_name="C16:0-LPA">
+        <precursor_results>
+          <precursor_peak replicate="Replicate 3. Full rxn" peak_count_ratio="1" retention_time="3.76233339" start_time="3.6741333" end_time="3.8701334" fwhm="0.0832882747" area="72.53883" background="524.1618" height="12.6127892" truncated="0" identified="false" user_set="FALSE" />
+        </precursor_results>
+        <transition fragment_type="custom" ion_formula="[M-]" neutral_mass_average="152.89945142009054" neutral_mass_monoisotopic="152.89945142009054" product_charge="-1">
+          <precursor_mz>409.2</precursor_mz>
+          <product_mz>152.9</product_mz>
+          <collision_energy>13.6852</collision_energy>
+          <transition_results>
+            <transition_peak replicate="Replicate 3. Full rxn" retention_time="3.76233339" start_time="3.6741333" end_time="3.8701334" area="72.53883" background="524.1618" height="12.6127892" fwhm="0.0832882747" truncated="false" identified="false" rank="1" std_dev="0.04115618" skewness="0.161913171" kurtosis="-0.381416976" shape_correlation="0.9835299" points_across="20" user_set="FALSE" />
+          </transition_results>
+        </transition>
+      </precursor>
+    </molecule>
+  </peptide_list>
+</srm_settings>
